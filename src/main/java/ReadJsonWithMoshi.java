@@ -6,7 +6,6 @@ import retrofit2.Retrofit;
 import retrofit2.converter.scalars.ScalarsConverterFactory;
 import retrofit2.http.GET;
 
-import java.net.HttpCookie;
 import java.util.ArrayList;
 import java.util.List;
 
